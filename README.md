@@ -20,6 +20,6 @@
 <h2>Informações do Projeto</h2>
 
 <h3>Contexto</h3>
-<p>
-Desde 2008, hóspedes e anfitriões têm usado a Airbnb para expandir as possibilidades de viagem. Este conjunto de dados descreve a atividade e as métricas de listagem em Nova York, NY, para 2019.
+<p style="text-align:justify">
+O curso Co-Design de Apps é uma tentativa de oferecer aos alunos de Engenharia do Insper uma estratégia inovadora e contemporânea para o processo de desenvolvimento de aplicativos, incluindo o usuário como parte fundamental do processo. O objetivo é ensinar o aluno a conduzir sessões de co-design e aplicar os feedbacks dos usuários em seus aplicativos. Todo o processo é bastante hands-on e baseado protótipos, tentativa e erro e em processos ágeis de desenvolvimento.
 </p>

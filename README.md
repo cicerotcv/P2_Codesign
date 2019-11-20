@@ -2,7 +2,7 @@
 
 <h2>Informações Gerais</h2>
 
-<h3>Engenharia Insper - Co-Design de Aplicativos 2019.2</h3>
+<h3>Co-Design de Aplicativos 2019.2 - Engenharia Insper</h3>
 
 <h3>Alunos:</h3>
 <ul>

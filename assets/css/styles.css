@@ -2,7 +2,7 @@
     position: absolute;
     width: 375px;
     height: 667px;
-    background: #000000;
+    background: #FCFCFC;
 }
 
 .navbar{
@@ -34,9 +34,9 @@
     width: 23.96px;
     height: 23px;
     left: 284.38px;
-    top: 21px;
+    top: 23px;
 }
-
+/*
 .button-navbar{
     position: absolute;
     width: 59.38px;
@@ -46,7 +46,7 @@
     background: transparent;
     border: transparent;
 }
-
+*/
 .line1{
     position: absolute;
     width: 31.25px;
@@ -100,3 +100,59 @@
     color: #F4F6F0;
     border: 1px solid #000000;
 }
+
+.search-engine{
+    position: absolute;
+    width: 291px;
+    height: 63px;
+    left: 39px;
+    top: 460px;
+    background: #F4F6F0;
+    border-radius: 10px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-indent: 50px;
+    color: #44001A;
+}
+
+.magnifying-glass{
+    position: absolute;
+    width: 22.03px;
+    height: 22.03px;
+    left: 52px;
+    top: 480px;
+}
+
+.user-title{
+
+    position: absolute;
+    width: 264px;
+    height: 47px;
+    left: 60px;
+    top: 79px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-indent: 10px;
+    color: #44001A;
+    
+}
+
+.user-image{
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    left: 19px;
+    top: 82px;
+}
+

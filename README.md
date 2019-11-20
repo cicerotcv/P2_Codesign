@@ -1,21 +1,41 @@
-<h1>P2_Codesign</h1>
-<h2><font color=red>Engenharia 2019.2 - Turma 2B</font></h1>
+<h1>Projeto de Co-Design de Aplicativos</h1>
 
-<h3>Co-Design de Aplicativos</h2>
+<h2>Informações Gerais</h2>
 
-<h4> O curso Co-Design de Aplicativos é uma tentativa de oferecer aos alunos de Engenharia do Insper uma estratégia inovadora e contemporânea para o processo de desenvolvimento de aplicativos, incluindo o usuário como parte fundamental do processo. O objetivo é ensinar o aluno a conduzir sessões de co-design e aplicar os feedbacks dos usuários em seus aplicativos. Todo o processo é bastante hands-on e baseado protótipos, tentativa e erro e em processos ágeis de desenvolvimento. </h3>
+<h3>Co-Design de Aplicativos 2019.2 - Engenharia Insper</h3>
+
+<h3>Alunos:</h3>
+<ul>
+  <li><a href=https://www.linkedin.com/in/cicero-tiago-carneiro-valentim-971a57138/>Cicero Tiago Carneiro Valentim</a></li>
+  <li><a href=https://www.linkedin.com/in/enrico-damiani-125527196/>Enrico Francesco Damiani</a></li>
+  <li><a href=https://www.linkedin.com/in/luiz-felipe-lazzaron-682676181/>Luiz Felipe Lazzaron</a></li>
+  <li><a href=https://www.linkedin.com/in/marcosvinis28/>Marcos Vinícius da Silva</a></li>
+</ul>
+
+<h3>Professor:</h3> 
+<ul>
+  <li><a href=https://www.linkedin.com/in/marcelo-hashimoto-a6b810111/>Dr. Marcelo Hashimoto</a></li>
+</ul>
+
+<h2>Informações do Projeto</h2>
+
+<h3>Contexto</h3>
+<p>
+O curso Co-Design de Apps é uma tentativa de oferecer aos alunos de Engenharia do Insper uma estratégia inovadora e contemporânea para o processo de desenvolvimento de aplicativos, incluindo o usuário como parte fundamental do processo. O objetivo é ensinar o aluno a conduzir sessões de co-design e aplicar os feedbacks dos usuários em seus aplicativos. Todo o processo é bastante hands-on e baseado protótipos, tentativa e erro e em processos ágeis de desenvolvimento.
+</p>
+
+<h3>Objetivo</h3>
+<p>
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+</p>
+
+<h2>Arquivos do Projeto</h2>
+<p>Abaixo estão os arquivos utilizados nesse projeto:</p>
 <ol>
-   <li>Alunos: </li>
-   <ul>
-       <li>Cicero Tiago Carneiro Valentim</li>
-       <li>Enrico Francesco Damiani</li>
-       <li>Luiz Felipe Lazzaron</li>
-       <li>Marcos Vinícius da Silva</li>
-   </ul>
-   <li>Professores:</li>
-   <ul>
-      <li>Marcelo Hashimoto</li>
-      <li>Lucas Falção Artacho</li>
-   </ul>
-   <p></p>
+  <li>Arquivo 00</li>
+  <li>Arquivo 01</li>
+  <li>Arquivo 02</li>
+  <li>Arquivo 03</li>
+  <li>Arquivo 04</li>
+  <li>Arquivo 05</li>
 </ol>

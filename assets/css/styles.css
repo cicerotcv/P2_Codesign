@@ -1,11 +1,12 @@
 .internal-container{
+    position: absolute;
     width: 375px;
     height: 667px;
     background: #000000;
 }
 
 .navbar{
-    position: relative;
+    position: absolute;
     width: 375px;
     height: 64px;
     left: 0px;
@@ -28,5 +29,74 @@
     align-items: center;
     color: #44001A;
 }
+.bell{
+    position: absolute;
+    width: 23.96px;
+    height: 23px;
+    left: 284.38px;
+    top: 21px;
+}
+
+.button-navbar{
+    position: absolute;
+    width: 59.38px;
+    height: 23px;
+    left: 284.38px;
+    top: 21px;
+    background: transparent;
+    border: transparent;
+}
+
+.line1{
+    position: absolute;
+    width: 31.25px;
+    height: 2px;
+    left: 312.5px;
+    top: 26px;
+    background: #44001A;
+}
+
+.line2{
+    position: absolute;
+    width: 31.25px;
+    height: 2px;
+    left: 312.5px;
+    top: 33px;
+    background: #44001A;
+}
+
+.line3{
+    position: absolute;
+    width: 31.25px;
+    height: 2px;
+    left: 312.5px;
+    top: 40px;
+    background: #44001A;
+}
 
 
+.background-home{
+    position: absolute;
+    width: 375px;
+    height: 603px;
+    left: 0px;
+    top: 64px;
+}
+
+.title-home{
+    position: absolute;
+    width: 222px;
+    height: 193px;
+    left: 120px;
+    top: 166px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #F4F6F0;
+    border: 1px solid #000000;
+}

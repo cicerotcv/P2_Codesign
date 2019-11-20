@@ -14,7 +14,7 @@
 
 <h3>Professor:</h3> 
 <ul>
-  <li><a href=https://www.linkedin.com/in/fabiodemiranda/>Me. Fabio Roberto de Miranda</a></li>
+  <li><a href=https://www.linkedin.com/in/marcelo-hashimoto-a6b810111/>Dr. Marcelo Hashimoto</a></li>
 </ul>
 
 <h2>Informações do Projeto</h2>

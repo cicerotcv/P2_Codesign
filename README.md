@@ -1,4 +1,4 @@
-<h1>Projeto de Codesign de Aplicativos</h1>
+<h1>Projeto de Co-Design de Aplicativos</h1>
 
 <h2>Informações Gerais</h2>
 

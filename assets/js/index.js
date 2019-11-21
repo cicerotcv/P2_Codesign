@@ -5,3 +5,7 @@ function replace() {
     this.innerHTML = template(context);
 }
 
+
+function toggleNotifications() {
+    console.log("click funcionou");
+}

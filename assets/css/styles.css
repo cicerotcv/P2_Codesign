@@ -30,48 +30,42 @@
     color: #44001A;
 }
 .bell{
-    position: absolute;
+    position: relative;
     width: 23.96px;
     height: 23px;
     left: 284.38px;
-    top: 23px;
+    top: 22px;
 }
-/*
+
 .button-navbar{
     position: absolute;
     width: 59.38px;
     height: 23px;
     left: 284.38px;
     top: 21px;
-    background: transparent;
-    border: transparent;
+    background: rgba(0,0,0,0);
+    border: none;
 }
-*/
-.line1{
-    position: absolute;
+.line {
+    background: #44001A;
+    position: relative;
     width: 31.25px;
     height: 2px;
-    left: 312.5px;
-    top: 26px;
-    background: #44001A;
+    margin: 0px;
+}
+.line1{
+    left: 20px;
+    top: -3px;
 }
 
 .line2{
-    position: absolute;
-    width: 31.25px;
-    height: 2px;
-    left: 312.5px;
-    top: 33px;
-    background: #44001A;
+    left: 20px;
+    top: 0px;
 }
 
 .line3{
-    position: absolute;
-    width: 31.25px;
-    height: 2px;
-    left: 312.5px;
-    top: 40px;
-    background: #44001A;
+    left: 20px;
+    top: 3px;
 }
 
 

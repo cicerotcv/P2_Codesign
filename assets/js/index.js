@@ -7,5 +7,12 @@ function replace() {
 
 
 function toggleNotifications() {
-    console.log("click funcionou");
+    var menu = document.getElementsByClassName('menu')[0]
+    console.log("click no menu funcionou");
+    if (menu.style.display != "grid") {
+        menu.style.display = "grid";
+    }
+    else {
+        menu.style.display = "none";
+    }
 }

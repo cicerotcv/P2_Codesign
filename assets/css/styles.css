@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans|Roboto&display=swap');
+
 .internal-container{
     position: absolute;
     width: 375px;
@@ -68,7 +70,60 @@
     top: 3px;
 }
 
-
+.menu {
+    font-family: Roboto;
+    display: none;
+    background: white;
+    position: absolute;
+    z-index: 10;
+    top: 64px;
+    right: 0px;
+    width: 80%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    row-gap: 1rem;
+}
+.menu img {
+    margin: 0px 0px 0px 1rem;
+}
+.profile {
+    display: inline-flex;
+    color: #44001A;
+    align-items: center;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+display: flex;
+align-items: center;
+text-indent: 10px;
+}
+.menu-item {
+    display: inline-flex;
+}
+.item-name {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-indent: 10px;
+}
+.item-briefing {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-indent: 10px;
+    color: #979797;
+}
+.button-navbar:focus {
+    outline: 0;
+}
 .background-home{
     position: absolute;
     width: 375px;

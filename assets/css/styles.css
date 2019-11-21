@@ -156,3 +156,73 @@
     top: 82px;
 }
 
+.content-search{
+    position: absolute;
+    width: 375px;
+    height: 244px;
+    left: 0px;
+    top: 175px;
+}
+
+.search-bar{
+    position: absolute;
+    width: 324px;
+    height: 33px;
+    left: 20px;
+    top: 73px;
+}
+
+.search-symbol{
+    position: absolute;
+    width: 20.26px;
+    height: 20.26px;
+    left: 317px;
+    top: 79px;
+}
+
+.search-rectangle{
+    position: absolute;
+    width: 1.74px;
+    height: 8.71px;
+    left: 329.88px;
+    top: 93.1px;
+    background: #C4C4C4;
+    transform: rotate(-45deg);
+}
+
+.search-polygon{
+    position: absolute;
+    width: 2px;
+    height: 1.98px;
+    left: 328.73px;
+    top: 92.14px;
+    background: #C4C4C4;
+    transform: rotate(-45deg);
+}
+
+.search-ellipse1{
+    position: absolute;
+    width: 2px;
+    height: 1.98px;
+    left: 328.73px;
+    top: 92.14px;
+    background: #C4C4C4;
+    transform: rotate(-45deg);
+}
+
+.search-text{
+    position: absolute;
+    width: 128px;
+    height: 33px;
+    left: 20px;
+    top: 73px;
+    font-family: Merriweather Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-indent: 10px;
+    color: #979797;
+}

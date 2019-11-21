@@ -150,12 +150,172 @@
     top: 82px;
 }
 
-.content-search{
+.button1{
+    position: absolute;
+    width: 87px;
+    height: 33px;
+    left: 257px;
+    top: 199px;
+    background-color: #c0eb6a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-b1{
+    font-family: Merriweather Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FCFCFC;
+    
+}
+
+.button2{
+    position: absolute;
+    width: 87px;
+    height: 33px;
+    left: 257px;
+    top: 280px;
+    background-color: #c0eb6a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-b2{
+    font-family: Merriweather Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FCFCFC;
+}
+
+.button3{
+    position: absolute;
+    width: 87px;
+    height: 33px;
+    left: 257px;
+    top: 361px;
+    background-color: #c0eb6a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-b3{
+    font-family: Merriweather Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;  
+    color: #FCFCFC;
+}
+
+.text_P1S1{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 22px;
+    color: #44001A;
+
+}
+
+.text_P1S2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    color: #979797;
+}
+
+.text_P2S1{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 22px;
+    color: #44001A;
+
+}
+
+.text_P2S2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    color: #979797;
+}
+
+.text_P3S1{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 22px;
+    color: #44001A;
+
+}
+
+.text_P3S2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    color: #979797;
+}
+.search-people1{
     position: absolute;
     width: 375px;
-    height: 244px;
+    height: 82px;
     left: 0px;
     top: 175px;
+    border: 1px solid #DADADA;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.search-people2{
+    position: absolute;
+    width: 375px;
+    height: 82px;
+    left: 0px;
+    top: 256px;
+    border: 1px solid #DADADA;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.search-people3{
+    position: absolute;
+    width: 375px;
+    height: 82px;
+    left: 0px;
+    top: 337px;
+    border: 1px solid #DADADA;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .search-bar{
@@ -164,6 +324,8 @@
     height: 33px;
     left: 20px;
     top: 73px;
+    border: 1px solid #DADADA;
+    border-radius: 4px;
 }
 
 .search-symbol{
@@ -182,6 +344,17 @@
     top: 93.1px;
     background: #C4C4C4;
     transform: rotate(-45deg);
+}
+
+.search-rectangle0{
+    position: absolute;
+    width: 324px;
+    height: 33px;
+    left: 20px;
+    top: 73px;
+    border: 1px solid #DADADA;
+    box-sizing: border-box;
+    border-radius: 4px;
 }
 
 .search-polygon{
@@ -204,7 +377,7 @@
     transform: rotate(-45deg);
 }
 
-.search-text{
+.search-text1{ 
     position: absolute;
     width: 128px;
     height: 33px;
@@ -219,4 +392,28 @@
     align-items: center;
     text-indent: 10px;
     color: #979797;
+}
+
+.search-text2{
+    position: absolute;
+    width: 310px;
+    height: 40px;
+    left: 20px;
+    top: 120px;
+    font-family: Merriweather Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.rectangle2{
+    position: absolute;
+    width: 360px;
+    height: 45px;
+    left: 0px;
+    top: 60px;
 }

@@ -32,9 +32,9 @@ O curso Co-Design de Apps é uma tentativa de oferecer aos alunos de Engenharia 
 <h2>Arquivos do Projeto</h2>
 <p>Abaixo estão os arquivos utilizados nesse projeto:</p>
 <ol>
-  <li>Arquivo 00</li>
-  <li>Arquivo 01</li>
-  <li>Arquivo 02</li>
+  <li>Arquivo 00 - <a href=https://github.com/cicerotcv/P2_Codesign_2019.2/blob/master/assets/doc/sketch.pdf>Sketch</a></li>
+  <li>Arquivo 01 - <a href=https://github.com/cicerotcv/P2_Codesign_2019.2/blob/master/assets/doc/wireframe.pdf>Wireframe</a></li>
+  <li>Arquivo 02 - <a href=https://github.com/cicerotcv/P2_Codesign_2019.2/blob/master/assets/doc/paleta.pdf>Paleta de Cores</a></li>
   <li>Arquivo 03</li>
   <li>Arquivo 04</li>
   <li>Arquivo 05</li>

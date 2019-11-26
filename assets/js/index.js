@@ -6,7 +6,8 @@ function replace() {
 }
 
 
-function toggleNotifications() {
+function toggleNotifications(x) {
+    x.classList.toggle("change");
     var menu = document.getElementsByClassName('menu')[0]
     console.log("click no menu funcionou");
     if (menu.style.display != "grid") {
@@ -15,4 +16,6 @@ function toggleNotifications() {
     else {
         menu.style.display = "none";
     }
+
+    
 }

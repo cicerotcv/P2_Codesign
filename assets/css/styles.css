@@ -477,3 +477,21 @@
     align-items: center;                                                     
     flex-direction: column;
 }
+
+.title_page{
+    position: absolute;
+    width: 244px;
+    height: 38px;
+    left: 20px;
+    top: 77px;
+    font-family: Merriweather Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    
+    color: #44001A;
+}

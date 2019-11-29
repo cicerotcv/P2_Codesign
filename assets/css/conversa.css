@@ -111,3 +111,7 @@
     height: 37px; 
     left: 288px;
 }
+
+.self-messages {
+    display: block
+}

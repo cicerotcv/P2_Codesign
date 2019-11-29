@@ -174,7 +174,7 @@
     padding-left: 50px;
     line-height: 23px;
     color: #44001A;
-    background: white url("../img/search_icon.png") no-repeat;
+    background: white url("../img/magnifying_glass.svg") no-repeat;
     background-size: 30px;
     background-position-y: center;
     background-position-x: 10px;
@@ -224,6 +224,7 @@
     font-size: 18px;
     line-height: 23px;
     color: #FCFCFC;
+    text-decoration: none;
     
 }
 
@@ -243,6 +244,7 @@
     font-size: 18px;
     line-height: 23px;
     color: #FCFCFC;
+    text-decoration: none;
 }
 
 .button3{
@@ -473,4 +475,5 @@
     display: flex;
     align-items: center;                                                     
     flex-direction: column;
+    text-decoration: none;
 }

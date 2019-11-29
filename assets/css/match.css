@@ -24,3 +24,20 @@
     left: 28.5px;
     top: 98px;
 }
+
+.photo_match{
+
+    position: absolute;
+    width: 279px;
+    height: 130px;
+    left: 42.5px;
+    top: 184px;
+}
+
+.logo_match{
+    position: absolute;
+    width: 86px;
+    height: 86px;
+    left: 141.5px;
+    top: 208px;
+}

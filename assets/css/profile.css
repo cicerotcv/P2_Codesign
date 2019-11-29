@@ -4,11 +4,8 @@
     height: 38px;
     left: 20px;
     top: 86px;
-    background: #C0EB6A
-
-    order: 2px solid #FFFFFF;
+    background: #C0EB6A;
     box-sizing: border-box;
-    transform: rotate(0deg);
 }
 
 .profile-image{

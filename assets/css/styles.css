@@ -478,7 +478,7 @@
     flex-direction: column;
 }
 
-.title_page{
+.title-page{
     position: absolute;
     width: 244px;
     height: 38px;
@@ -492,6 +492,5 @@
     /* identical to box height */
     display: flex;
     align-items: center;
-    
     color: #44001A;
 }

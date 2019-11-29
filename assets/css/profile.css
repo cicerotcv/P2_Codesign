@@ -1,165 +1,165 @@
 .profile-back-button{
-    position: absolute;
-    width: 38px;
-    height: 38px;
-    left: 20px;
-    top: 86px;
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  left: 20px;
+  top: 86px;
 }
 
 .profile-image{
-    position: absolute;
-    width: 213px;
-    height: 213px;
-    left: 81px;
-    top: 82.75px;
-    background: url(photo-1504911539020-cfb0f7887a5e.jpg);
-    box-sizing: border-box;
+  position: absolute;
+  width: 213px;
+  height: 213px;
+  left: 81px;
+  top: 82.75px;
+  background: url(photo-1504911539020-cfb0f7887a5e.jpg);
+  box-sizing: border-box;
 }
 
 .profile-name{
-    position: absolute;
-    width: 268px;
-    height: 34px;
-    left: 49px;
-    top: 306px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 30px;
-    line-height: 35px;
-    text-align: center;
-    text-indent: 10px;
-    color: #44001A;
+  position: absolute;
+  width: 268px;
+  height: 34px;
+  left: 49px;
+  top: 306px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  text-indent: 10px;
+  color: #44001A;
 }
 
 .profile-description{
-    position: absolute;
-    width: 129px;
-    height: 23px;
-    left: 123px;
-    top: 339px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 20px;
-    line-height: 23px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    text-indent: 10px;
-    color: #979797;
+  position: absolute;
+  width: 129px;
+  height: 23px;
+  left: 123px;
+  top: 339px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-indent: 10px;
+  color: #979797;
 }
 
 .profile-button{
-    position: absolute;
-    width: 213px;
-    height: 56px;
-    left: 86px;
-    top: 383px;
-    background: #C0EB6A;
-    border-radius: 2px;
+  position: absolute;
+  width: 213px;
+  height: 56px;
+  left: 86px;
+  top: 383px;
+  background: #C0EB6A;
+  border-radius: 2px;
 }
 
 .profile-button-text{
-    left: 60px;
-    top: 12px;
-    position: absolute;
-    font-family: Merriweather Sans;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 25px;
-    line-height: 31px;
-    color: #FCFCFC;
+  left: 60px;
+  top: 12px;
+  position: absolute;
+  font-family: Merriweather Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 31px;
+  color: #FCFCFC;
 }
 
 .profile-heart{
-    position: absolute;
-    width: 24px;
-    height: 22px;
-    left: 21px;
-    top: 462px;
+  position: absolute;
+  width: 24px;
+  height: 22px;
+  left: 21px;
+  top: 462px;
 }
 
 .profile-interesse1{
-    position: absolute;
-    width: 363px;
-    height: 26px;
-    left: 21px;
-    top: 462px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 15px;
-    line-height: 18px;
-    text-indent: 40px;
-    color: #44001A;
+  position: absolute;
+  width: 363px;
+  height: 26px;
+  left: 21px;
+  top: 462px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 18px;
+  text-indent: 40px;
+  color: #44001A;
 }
 
 .profile-house{
-    position: absolute;
-    width: 24px;
-    height: 24px;
-    left: 21px;
-    top: 512px;  
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 21px;
+  top: 512px;  
 }
 
 .profile-interesse2{
-    position: absolute;
-    width: 286px;
-    height: 22px;
-    left: 21px;
-    top: 514px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 15px;
-    line-height: 18px;
-    text-indent: 40px;
-    color: #44001A;
+  position: absolute;
+  width: 286px;
+  height: 22px;
+  left: 21px;
+  top: 514px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 18px;
+  text-indent: 40px;
+  color: #44001A;
 }
 
 .profile-person{
-    position: absolute;
-    width: 16px;
-    height: 22px;
-    left: 25px;
-    top: 562px;
+  position: absolute;
+  width: 16px;
+  height: 22px;
+  left: 25px;
+  top: 562px;
 }
 
 .profile-interesse3{
-    position: absolute;
-    width: 286px;
-    height: 22px;
-    left: 22px;
-    top: 562px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 15px;
-    line-height: 18px;
-    text-indent: 40px;
-    color: #44001A;
+  position: absolute;
+  width: 286px;
+  height: 22px;
+  left: 22px;
+  top: 562px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 18px;
+  text-indent: 40px;
+  color: #44001A;
 }
 
 .profile-job{
-    position: absolute;
-    width: 23.75px;
-    height: 19px;
-    left: 21px;
-    top: 607px;
+  position: absolute;
+  width: 23.75px;
+  height: 19px;
+  left: 21px;
+  top: 607px;
 }
 
 .profile-interesse4{
-    position: absolute;
-    width: 286px;
-    height: 22px;
-    left: 22px;
-    top: 609px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 15px;
-    line-height: 18px;
-    text-indent: 40px;
-    color: #44001A;
+  position: absolute;
+  width: 286px;
+  height: 22px;
+  left: 22px;
+  top: 609px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 18px;
+  text-indent: 40px;
+  color: #44001A;
 }

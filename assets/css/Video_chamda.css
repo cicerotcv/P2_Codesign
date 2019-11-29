@@ -1,48 +1,48 @@
 .Video_back{
-    position: absolute;
-    width: 375px;
-    height: 667px;
-    left: 0px;
-    top: 0px;
+  position: absolute;
+  width: 375px;
+  height: 667px;
+  left: 0px;
+  top: 0px;
 }
 
 .Video_front{
-    position: absolute;
-    width: 78px;
-    height: 107px;
-    left: 277px;
-    top: 521px;
-    border-radius: 10px;   
+  position: absolute;
+  width: 78px;
+  height: 107px;
+  left: 277px;
+  top: 521px;
+  border-radius: 10px;   
 }
 
 .Red{
-    position: absolute;
-    width: 61px;
-    height: 61px;
-    left: 149px;
-    top: 544px;
+  position: absolute;
+  width: 61px;
+  height: 61px;
+  left: 149px;
+  top: 544px;
 }
 
 .RecUP{
-    position: absolute;
-    width: 33px;
-    height: 7px;
-    left: 163px;
-    top: 568px;
+  position: absolute;
+  width: 33px;
+  height: 7px;
+  left: 163px;
+  top: 568px;
 }
 
 .RecL{
-    position: absolute;
-    width: 9px;
-    height: 8px;
-    left: 163px;
-    top: 572px;
+  position: absolute;
+  width: 9px;
+  height: 8px;
+  left: 163px;
+  top: 572px;
 }
 
 .RecR{
-    position: absolute;
-    width: 10px;
-    height: 8px;
-    left: 186px;
-    top: 572px;
+  position: absolute;
+  width: 10px;
+  height: 8px;
+  left: 186px;
+  top: 572px;
 }

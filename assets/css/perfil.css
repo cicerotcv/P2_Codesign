@@ -1,234 +1,234 @@
 .interesses {
-    position: absolute;
-    width: 244px;
-    height: 38px;
-    left: 19px;
-    top: 77px;
-    
-    font-family: Merriweather ;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 30px;
-    line-height: 38px;
-    /* identical to box height */
-    
-    display: flex;
-    align-items: center;
-    
-    color: #44001A;
+  position: absolute;
+  width: 244px;
+  height: 38px;
+  left: 19px;
+  top: 77px;
+  
+  font-family: Merriweather ;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 38px;
+  /* identical to box height */
+  
+  display: flex;
+  align-items: center;
+  
+  color: #44001A;
 }
 
 .arrow {
-    position: absolute;
-    width: 38px;
-    height: 38px;
-    left: 306px;
-    top: 77px;
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  left: 306px;
+  top: 77px;
 }
 
 .tip {
-    position: absolute;
-width: 325px;
-height: 20px;
-left: 19px;
-top: 129px;
+  position: absolute;
+  width: 325px;
+  height: 20px;
+  left: 19px;
+  top: 129px;
 
-font-family: Merriweather ;
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 20px;
-display: flex;
-align-items: center;
+  font-family: Merriweather ;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
 
-color: #979797;
+  color: #979797;
 }
 
 .instrucoes {
-    position: absolute;
-    width: 325px;
-    height: 40px;
-    left: 19px;
-    top: 214px;
+  position: absolute;
+  width: 325px;
+  height: 40px;
+  left: 19px;
+  top: 214px;
 
-    font-family: Merriweather ;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 20px;
-    display: flex;
-    align-items: center;
+  font-family: Merriweather ;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
 
-    color: #979797;
+  color: #979797;
 }
 
 .interest-item {
-    position: absolute;
-    width: 65.74px;
-    padding: 0.25rem;
-    color: white;
-    background: #979797;
-    border-radius: 2px;
+  position: absolute;
+  width: 65.74px;
+  padding: 0.25rem;
+  color: white;
+  background: #979797;
+  border-radius: 2px;
 }
 .item1 {
-    left: 24.26px;
-    top: 173px;
+  left: 24.26px;
+  top: 173px;
 }
 .item2 {
-    left: 104px;
-    top: 173px;
-    width: 150px;
+  left: 104px;
+  top: 173px;
+  width: 150px;
 }
 .interest-text {
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 14px;
-    line-height: 16px;
-    vertical-align: center;
-    align-items: center;
-    text-indent: 10px;
-    color: #FFFFFF;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 16px;
+  vertical-align: center;
+  align-items: center;
+  text-indent: 10px;
+  color: #FFFFFF;
 }
 .X {
-    left: 60px;
-    float: right;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    align-items: center;
-    padding: 0px 0.25rem;
-    color: #44001A;
-    text-decoration: none;
-    cursor: pointer;
+  left: 60px;
+  float: right;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  align-items: center;
+  padding: 0px 0.25rem;
+  color: #44001A;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .pesquisar {
-    position: absolute;
-    width: 290px;
-    height: 54px;
-    left: 43px;
-    top: 278px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 19px;
-    display: flex;
-    align-items: center;
-    text-indent: 50px;
-    border: hidden;
-    color: #000000;
-    background: #F4F6F0 url("../img/magnifying_glass.svg") no-repeat;
-    background-position-x: 15px;
-    background-position-y: center;
-    border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
+  position: absolute;
+  width: 290px;
+  height: 54px;
+  left: 43px;
+  top: 278px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  text-indent: 50px;
+  border: hidden;
+  color: #000000;
+  background: #F4F6F0 url("../img/magnifying_glass.svg") no-repeat;
+  background-position-x: 15px;
+  background-position-y: center;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
 }
 
 .adicionar {
-    position: absolute;
-    width: 100px;
-    height: 35px;
-    left: 138px;
-    top: 352px;
-    background: #C0EB6A;
-    border-radius: 2px;
-    cursor: pointer ;
-    -webkit-border-radius: 2px;
-    -moz-border-radius: 2px;
-    -ms-border-radius: 2px;
-    -o-border-radius: 2px;
+  position: absolute;
+  width: 100px;
+  height: 35px;
+  left: 138px;
+  top: 352px;
+  background: #C0EB6A;
+  border-radius: 2px;
+  cursor: pointer ;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
 }
 .adicionar-texto {position: absolute;
-    width: 99.57px;
-    height: 35px;
-    left: 15px;
-    text-align: center;
-    color: white;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 19px;
-    display: flex;
-    align-items: center;
-    text-align: center;
+  width: 99.57px;
+  height: 35px;
+  left: 15px;
+  text-align: center;
+  color: white;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  text-align: center;
 }
 .suggestions {
-    position: absolute;
-    width: 309px;
-    height: 25px;
-    left: 23px;
-    top: 418px;
-    font-family: Merriweather ;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 20px;
-    line-height: 25px;
-    display: flex;
-    align-items: center;
+  position: absolute;
+  width: 309px;
+  height: 25px;
+  left: 23px;
+  top: 418px;
+  font-family: Merriweather ;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+  display: flex;
+  align-items: center;
 
-    color: #44001A;
+  color: #44001A;
 }
 
 .suggestions-item {
-    position: absolute;
-    background: #44001A;
-    border-radius: 2px;
-    -webkit-border-radius: 2px;
-    -moz-border-radius: 2px;
-    -ms-border-radius: 2px;
-    -o-border-radius: 2px;
+  position: absolute;
+  background: #44001A;
+  border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
 }
 .sitem1 {
-    left: 23.54px;
-    top: 460px;
+  left: 23.54px;
+  top: 460px;
 }
 .sitem2 {
-    left: 23.54px;
-    top: 501px;
+  left: 23.54px;
+  top: 501px;
 }
 .suggestions-text {
-    padding: 0.5rem 0.5rem;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 18px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    color: #FFFFFF;
+  padding: 0.5rem 0.5rem;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
 }
 .suggestions-adicionar {
-    left: 253px;
-    position: absolute;
-    top: 460px;
-    background: rgb(192, 235, 106);
-    border-radius: 10px;
-    padding: 0.5rem 0.5rem;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 18px;
-    display: flex;
-    align-items: center;
-    float: right;
-    color: #FFFFFF;
+  left: 253px;
+  position: absolute;
+  top: 460px;
+  background: rgb(192, 235, 106);
+  border-radius: 10px;
+  padding: 0.5rem 0.5rem;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  float: right;
+  color: #FFFFFF;
 }
 .add1 {
-    top:460px;
-    cursor: pointer;
+  top:460px;
+  cursor: pointer;
 }
 
 .add2 {
-    top:501px;
-    cursor: pointer;
+  top:501px;
+  cursor: pointer;
 }
 
 .condicional {
-    display: none;
+  display: none;
 }

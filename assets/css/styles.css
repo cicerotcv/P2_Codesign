@@ -399,7 +399,7 @@
     transform: rotate(-45deg);
 }
 
-.abutre{
+.teste{
     position: absolute;
     width: 324px;
     height: 33px;
@@ -407,8 +407,7 @@
     top: 73px;
     border: 1px solid #DADADA;
     box-sizing: border-box;
-    display: flex;
-    border-radius: 4px;
+    
 }
 
 .search-polygon{
@@ -432,6 +431,11 @@
 }
 
 .search-text1{ 
+    position: absolute;
+    width: 128px;
+    height: 33px;
+    left: 20px;
+    top: 73px;
     font-family: Merriweather Sans;
     font-style: normal;
     font-weight: normal;

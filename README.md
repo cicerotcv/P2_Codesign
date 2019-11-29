@@ -26,7 +26,7 @@ O curso Co-Design de Apps é uma tentativa de oferecer aos alunos de Engenharia 
 
 <h3>Objetivo</h3>
 <p>
-O projeto em si consiste em um protótipo de aplicativo que resolve um problema real de um tipo específico de usuário que o grupo teve autonomia para escolher. É apenas um protótipo, não um aplicativo de verdade. Ele não tem todas as funcionalidades definidas. Os grupos foram orientados a fazer com que esse protótipo fosse o mais realista possível, mas simplificações foram inevitáveis em alguns casos.
+O projeto em si consiste em um protótipo de aplicativo que resolve um problema real de um tipo específico de usuário que o grupo teve autonomia para escolher. É apenas um protótipo, não um aplicativo de verdade. Ele não tem todas as funcionalidades definidas. Os grupos foram orientados a fazer com que esse protótipo fosse o mais realista possível, mas simplificações foram inevitáveis em alguns casos. Neste projeto, nosso objetivo foi dar uma solução a um problema que a grande maioria dos idosos possui, a ociosidade. Propomos uma maneira inovadora de trocar experiências e conhecimento.
 </p>
 
 <h2>Documentos do Projeto</h2>

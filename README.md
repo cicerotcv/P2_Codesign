@@ -29,13 +29,11 @@ O curso Co-Design de Apps é uma tentativa de oferecer aos alunos de Engenharia 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 </p>
 
-<h2>Arquivos do Projeto</h2>
-<p>Abaixo estão os arquivos utilizados nesse projeto:</p>
+<h2>Documentos do Projeto</h2>
+<p>Abaixo estão os documentos do projeto:</p>
 <ol>
-  <li>Arquivo 00 - <a href=https://github.com/cicerotcv/P2_Codesign_2019.2/blob/master/assets/doc/sketch.pdf>Sketch</a></li>
-  <li>Arquivo 01 - <a href=https://github.com/cicerotcv/P2_Codesign_2019.2/blob/master/assets/doc/wireframe.pdf>Wireframe</a></li>
-  <li>Arquivo 02 - <a href=https://github.com/cicerotcv/P2_Codesign_2019.2/blob/master/assets/doc/paleta.pdf>Paleta de Cores</a></li>
-  <li>Arquivo 03</li>
-  <li>Arquivo 04</li>
-  <li>Arquivo 05</li>
+  <li>Documento 00 - <a href=https://github.com/cicerotcv/P2_Codesign_2019.2/blob/master/assets/doc/sketch.pdf>Sketch</a></li>
+  <li>Documento 01 - <a href=https://github.com/cicerotcv/P2_Codesign_2019.2/blob/master/assets/doc/wireframe.pdf>Wireframe</a></li>
+  <li>Documento 02 - <a href=https://github.com/cicerotcv/P2_Codesign_2019.2/blob/master/assets/doc/paleta.pdf>Paleta de Cores</a></li>
+  <li>Documento 03 - <a href=https://github.com/cicerotcv/P2_Codesign_2019.2/blob/master/assets/doc/relatorio.pdf>Relatório de Daltonismo</a></li>
 </ol>

@@ -76,8 +76,21 @@
 
                 <div class="condicional">
                     <div class="adicionar">
-                        <p class="adicionar-texto">Adicionar</p>
+                        <p class="adicionar-texto" onclick="console.log('funcionou');this.style.cursor='not-allowed'">Adicionar</p>
                     </div>
+
+                    <span class="suggestions">Assuntos sugeridos</span>
+
+                    <div class="suggestions-item sitem1">
+                        <span class="suggestions-text text1">regressãolinear</span>
+                    </div>
+                    <span class="suggestions-adicionar add1" onclick="changeColor(this)">Adicionar</span>
+                    
+                    <div class="suggestions-item sitem2">
+                        <span class="suggestions-text text2">excel</span>
+                    </div>
+                    <span class="suggestions-adicionar add2" onclick="changeColor(this)">Adicionar</span>
+
                 </div>
 
             </div>

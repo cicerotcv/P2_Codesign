@@ -5,7 +5,7 @@
     left: 19px;
     top: 77px;
     
-    font-family: Merriweather Sans;
+    font-family: Merriweather ;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
@@ -33,7 +33,7 @@ height: 20px;
 left: 19px;
 top: 129px;
 
-font-family: Merriweather Sans;
+font-family: Merriweather ;
 font-style: normal;
 font-weight: normal;
 font-size: 16px;
@@ -51,7 +51,7 @@ color: #979797;
     left: 19px;
     top: 214px;
 
-    font-family: Merriweather Sans;
+    font-family: Merriweather ;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -136,17 +136,99 @@ color: #979797;
     left: 138px;
     top: 352px;
     background: #C0EB6A;
-    border-radius: 5px;
+    border-radius: 2px;
+    cursor: pointer ;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
 }
-.adicionar-texto {
-    background-color: black;
+.adicionar-texto {position: absolute;
+    width: 99.57px;
+    height: 35px;
+    left: 15px;
+    text-align: center;
+    color: white;
     font-family: Roboto;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 19px;
+    display: flex;
     align-items: center;
     text-align: center;
-    vertical-align: middle;
+}
+.suggestions {
+    position: absolute;
+    width: 309px;
+    height: 25px;
+    left: 23px;
+    top: 418px;
+    font-family: Merriweather ;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+
+    color: #44001A;
+}
+
+.suggestions-item {
+    position: absolute;
+    background: #44001A;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+.sitem1 {
+    left: 23.54px;
+    top: 460px;
+}
+.sitem2 {
+    left: 23.54px;
+    top: 501px;
+}
+.suggestions-text {
+    padding: 0.5rem 0.5rem;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
     color: #FFFFFF;
+}
+.suggestions-adicionar {
+    left: 253px;
+    position: absolute;
+    top: 460px;
+    background: rgb(192, 235, 106);
+    border-radius: 10px;
+    padding: 0.5rem 0.5rem;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    float: right;
+    color: #FFFFFF;
+}
+.add1 {
+    top:460px;
+    cursor: pointer;
+}
+
+.add2 {
+    top:501px;
+    cursor: pointer;
+}
+
+.condicional {
+    display: none;
 }

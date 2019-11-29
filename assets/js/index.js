@@ -26,5 +26,23 @@ function interestRemove(x) {
 }
 
 function appendSuggestions(x) {
-    console.log(x.value)
+    var condicional = document.getElementsByClassName("condicional")[0];
+    if(x.value != "") {
+        if (condicional.style.display != 'block') {
+            condicional.style.display = 'block'
+        }
+    }
+    else {
+        condicional.style.display = 'none'
+    }
+}
+
+function changeColor(x) {
+    console.log(x.style.backgroundColor)
+    if ( x.style.backgroundColor != "rgb(196, 196, 196)") {
+        x.style.backgroundColor = 'rgb(196, 196, 196)'
+    }
+    else {
+        x.style.backgroundColor = 'rgb(192, 235, 106)'
+    }
 }

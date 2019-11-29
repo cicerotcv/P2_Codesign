@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Roboto&display=swap');
+
+.title-page{
+    position: absolute;
+    width: 244px;
+    height: 38px;
+    left: 20px;
+    top: 77px;
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    color: #44001A;
+}
+
+.invitation1{
+    position: absolute;
+    width: 375px;
+    height: 82px;
+    left: 0px;
+    top: 129px;
+    border: 1px solid #DADADA;
+    box-sizing: border-box;
+}
+
+.profile_invite_1{
+    position: relative;
+    width: 64.58px;
+    height: 62px;
+    left: 21.21px;
+}
+
+.button_accept1{
+    position: absolute;
+    width: 34.38px;
+    height: 33px;
+    left: 271px;
+    top: 154px;
+
+}
+
+.button_deny1{
+    position: absolute;
+    width: 34.38px;
+    height: 33px;
+    left: 309.54px;
+    top: 154px;
+}
+
+.button_accept2{
+    position: absolute;
+    width: 34.38px;
+    height: 33px;
+    left: 271px;
+}
+
+.button_deny2{
+position: absolute;
+width: 34.38px;
+height: 33px;
+left: 309.54px;
+}
+
+.invitation_1{
+    position: absolute;
+    width: 264px;
+    height: 82px;
+    left: 0px;
+    top: 129px;
+}

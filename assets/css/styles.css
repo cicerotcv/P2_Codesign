@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans|Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Roboto&display=swap');
 
 .internal-container{
     position: absolute;
@@ -22,7 +22,7 @@
     height: 40px;
     left: 19.79px;
     top: 12px;
-    font-family: Merriweather Sans;
+    font-family: Merriweather;
     font-style: normal;
     font-weight: 300;
     font-size: 20px;
@@ -220,7 +220,7 @@
 }
 
 .text-b1{
-    font-family: Merriweather Sans;
+    font-family: Merriweather;
     font-style: normal;
     font-weight: bold;
     font-size: 18px;
@@ -239,7 +239,7 @@
 }
 
 .text-b2{
-    font-family: Merriweather Sans;
+    font-family: Merriweather;
     font-style: normal;
     font-weight: bold;
     font-size: 18px;
@@ -257,7 +257,7 @@
 }
 
 .text-b3{
-    font-family: Merriweather Sans;
+    font-family: Merriweather;
     font-style: normal;
     font-weight: bold;
     font-size: 18px;
@@ -432,7 +432,7 @@
 }
 
 .search-text1{ 
-    font-family: Merriweather Sans;
+    font-family: Merriweather;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -449,7 +449,7 @@
     height: 40px;
     left: 20px;
     top: 120px;
-    font-family: Merriweather Sans;
+    font-family: Merriweather;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;

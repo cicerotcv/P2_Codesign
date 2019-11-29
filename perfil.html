@@ -2,101 +2,101 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="./assets/css/reset.css">
-    <link rel="stylesheet" href="./assets/css/styles.css">
-    <link rel="stylesheet" href="./assets/css/perfil.css">
-    <script src="./assets/js/index.js"></script>
-    <title>MatchApp</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="./assets/css/reset.css">
+  <link rel="stylesheet" href="./assets/css/styles.css">
+  <link rel="stylesheet" href="./assets/css/perfil.css">
+  <script src="./assets/js/index.js"></script>
+  <title>MatchApp</title>
 </head>
 
 <body>
-    <div class="external-container">
-        <div class="internal-container">
-            <div class="navbar">
-                <a href="./index.html">
-                    <h1 class="title-navbar">MatchApp</h1>
-                </a>
-                <img class="bell" src="assets/img/bell.svg" alt="novas notificações">
-                <div class="button-navbar" onclick="toggleNotifications(this)">
-                    <div class="bar1"></div>
-                    <div class="bar2"></div>
-                    <div class="bar3"></div>
-                </div>
-                <div class="menu">
-                    <a class="profile" href="./profile.html">
-                        <img src="assets/img/profile-image.png" alt="profile picture">
-                        <p>Sônia Carnesco</p>
-                    </a>
-                    <a class="menu-item" href="./convites.html">
-                        <img src="assets/img/mail_icon.svg" alt="item-name">
-                        <section>
-                            <p class="item-name">Convites</p>
-                            <p class="item-briefing">Você tem 2 convites</p>
-                        </section>
-                    </a>
-                    <a class="menu-item" href="./conversas.html">
-                        <img src="assets/img/people_icon.svg" alt="item-name">
-                        <section>
-                            <p class="item-name">Conversas</p>
-                            <p class="item-briefing">Veja aqui suas conversas</p>
-                        </section>
-                    </a>
-                    <a class="menu-item" href="./perfil.html">
-                        <img src="assets/img/heart_icon.svg" alt="item-name">
-                        <section>
-                            <p class="item-name">Intereses</p>
-                            <p class="item-briefing">Adicione ou edite seus interesses</p>
-                        </section>
-                    </a>
-                </div>
-            </div>
+  <div class="external-container">
+    <div class="internal-container">
+      <div class="navbar">
+        <a href="./index.html">
+          <h1 class="title-navbar">MatchApp</h1>
+        </a>
+        <img class="bell" src="assets/img/bell.svg" alt="novas notificações">
+        <div class="button-navbar" onclick="toggleNotifications(this)">
+          <div class="bar1"></div>
+          <div class="bar2"></div>
+          <div class="bar3"></div>
+        </div>
+        <div class="menu">
+          <a class="profile" href="./profile.html">
+            <img src="assets/img/profile-image.png" alt="profile picture">
+            <p>Sônia Carnesco</p>
+          </a>
+          <a class="menu-item" href="./convites.html">
+            <img src="assets/img/mail_icon.svg" alt="item-name">
+            <section>
+              <p class="item-name">Convites</p>
+              <p class="item-briefing">Você tem 2 convites</p>
+            </section>
+          </a>
+          <a class="menu-item" href="./conversas.html">
+            <img src="assets/img/people_icon.svg" alt="item-name">
+            <section>
+              <p class="item-name">Conversas</p>
+              <p class="item-briefing">Veja aqui suas conversas</p>
+            </section>
+          </a>
+          <a class="menu-item" href="./perfil.html">
+            <img src="assets/img/heart_icon.svg" alt="item-name">
+            <section>
+              <p class="item-name">Intereses</p>
+              <p class="item-briefing">Adicione ou edite seus interesses</p>
+            </section>
+          </a>
+        </div>
+      </div>
 
     </div>
-            <div class="content">
-                <p class="interesses">Interesses</p>
-                <a href="index.html">
-                    <img class="arrow" src="./assets/img/arrow.svg" alt="">
-                </a>
+    <div class="content">
+      <p class="interesses">Interesses</p>
+      <a href="index.html">
+        <img class="arrow" src="./assets/img/arrow.svg" alt="">
+      </a>
 
-                <p class="tip">Adicione ou edite seus interesses</p>
+      <p class="tip">Adicione ou edite seus interesses</p>
 
-                <div class="interest-item item1">
-                    <span class="interest-text">tricô</span>
-                    <span class="X" onclick="interestRemove(this)">X</span>
-                </div>
-                <div class="interest-item item2">
-                    <span class="interest-text">mercadofinanceirio</span>
-                    <span class="X" onclick="interestRemove(this)">X</span>
-                </div>
+      <div class="interest-item item1">
+        <span class="interest-text">tricô</span>
+        <span class="X" onclick="interestRemove(this)">X</span>
+      </div>
+      <div class="interest-item item2">
+        <span class="interest-text">mercadofinanceirio</span>
+        <span class="X" onclick="interestRemove(this)">X</span>
+      </div>
 
-                <p class="instrucoes">Escreva sobre o assunto que você tem interesse em conversar.</p>
+      <p class="instrucoes">Escreva sobre o assunto que você tem interesse em conversar.</p>
 
-                <input type="text" class="pesquisar" onkeyup="appendSuggestions(this)" placeholder="Pesquisar assuntos">
+      <input type="text" class="pesquisar" onkeyup="appendSuggestions(this)" placeholder="Pesquisar assuntos">
 
-                <div class="condicional">
-                    <div class="adicionar">
-                        <p class="adicionar-texto" onclick="console.log('funcionou');this.style.cursor='not-allowed'">Adicionar</p>
-                    </div>
-
-                    <span class="suggestions">Assuntos sugeridos</span>
-
-                    <div class="suggestions-item sitem1">
-                        <span class="suggestions-text text1">regressãolinear</span>
-                    </div>
-                    <span class="suggestions-adicionar add1" onclick="changeColor(this)">Adicionar</span>
-                    
-                    <div class="suggestions-item sitem2">
-                        <span class="suggestions-text text2">excel</span>
-                    </div>
-                    <span class="suggestions-adicionar add2" onclick="changeColor(this)">Adicionar</span>
-
-                </div>
-
-            </div>
+      <div class="condicional">
+        <div class="adicionar">
+          <p class="adicionar-texto" onclick="console.log('funcionou');this.style.cursor='not-allowed'">Adicionar</p>
         </div>
+
+        <span class="suggestions">Assuntos sugeridos</span>
+
+        <div class="suggestions-item sitem1">
+          <span class="suggestions-text text1">regressãolinear</span>
+        </div>
+        <span class="suggestions-adicionar add1" onclick="changeColor(this)">Adicionar</span>
+
+        <div class="suggestions-item sitem2">
+          <span class="suggestions-text text2">excel</span>
+        </div>
+        <span class="suggestions-adicionar add2" onclick="changeColor(this)">Adicionar</span>
+
+      </div>
+
+    </div>
+  </div>
 </body>
 
 </html>

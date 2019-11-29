@@ -41,3 +41,45 @@
     left: 141.5px;
     top: 208px;
 }
+
+.text_match{
+
+    position: absolute;
+    width: 327px;
+    height: 78px;
+    left: 20px;
+    top: 448px;
+    
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #44001A;
+}
+
+.button_match{
+
+    position: absolute;
+    padding: 0.52rem 60px;
+    left: 81px;
+    top: 548px;
+    
+    background: #C0EB6A;
+    border-radius: 10px;
+
+    font-family: Merriweather Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+
+    color: #FCFCFC;
+}

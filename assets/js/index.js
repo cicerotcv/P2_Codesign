@@ -46,3 +46,9 @@ function changeColor(x) {
         x.style.backgroundColor = 'rgb(192, 235, 106)'
     }
 }
+//  código a ser implementado em iterações futuras
+// function adicionar(x) {
+//     var template = '<span class="msg self">'+ String(x.value) +'</span>'
+//     conversa = document.getElementsByClassName("inner")[0];
+//     conversa.appendChild(template)
+// }

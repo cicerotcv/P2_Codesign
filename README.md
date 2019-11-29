@@ -26,7 +26,7 @@ O curso Co-Design de Apps é uma tentativa de oferecer aos alunos de Engenharia 
 
 <h3>Objetivo</h3>
 <p>
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+O projeto em si consiste em um protótipo de aplicativo que resolve um problema real de um tipo específico de usuário que o grupo teve autonomia para escolher. É apenas um protótipo, não um aplicativo de verdade. Ele não tem todas as funcionalidades definidas. Os grupos foram orientados a fazer com que esse protótipo fosse o mais realista possível, mas simplificações foram inevitáveis em alguns casos.
 </p>
 
 <h2>Documentos do Projeto</h2>

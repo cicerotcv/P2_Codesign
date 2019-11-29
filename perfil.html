@@ -54,8 +54,32 @@
 
 
             <div class="content">
-                
-                
+                <p class="interesses">Interesses</p>
+                <a href="index.html">
+                    <img class="arrow" src="./assets/img/arrow.svg" alt="">
+                </a>
+
+                <p class="tip">Adicione ou edite seus interesses</p>
+
+                <div class="interest-item item1">
+                    <span class="interest-text">tricô</span>
+                    <span class="X" onclick="interestRemove(this)">X</span>
+                </div>
+                <div class="interest-item item2">
+                    <span class="interest-text">mercadofinanceirio</span>
+                    <span class="X" onclick="interestRemove(this)">X</span>
+                </div>
+
+                <p class="instrucoes">Escreva sobre o assunto que você tem interesse em conversar.</p>
+
+                <input type="text" class="pesquisar" onkeyup="appendSuggestions(this)" placeholder="Pesquisar assuntos">
+
+                <div class="condicional">
+                    <div class="adicionar">
+                        <p class="adicionar-texto">Adicionar</p>
+                    </div>
+                </div>
+
             </div>
         </div>
 </body>

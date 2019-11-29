@@ -1,19 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans|Roboto&display=swap');
-
-.invitation1{
-   position: absolute;
-    width: 375px;
-    height: 82px;
-    left: 0px;
-    top: 175px;
-    padding: 10px;
-    border: 1px solid #DADADA;
-    box-sizing: border-box;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-direction: row-reverse;
-}
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Roboto&display=swap');
 
 .title-page{
     position: absolute;
@@ -21,7 +6,7 @@
     height: 38px;
     left: 20px;
     top: 77px;
-    font-family: Merriweather Sans;
+    font-family: Merriweather;
     font-style: normal;
     font-weight: normal;
     font-size: 30px;
@@ -32,24 +17,75 @@
     color: #44001A;
 }
 
-.container_invite{
+.invitation1{
     position: absolute;
     width: 375px;
     height: 82px;
     left: 0px;
     top: 129px;
+    border: 1px solid #DADADA;
+    box-sizing: border-box;
+}
+
+.profile_invite_1{
+
+    position: absolute;
+    width: 64.58px;
+    height: 62px;
+    left: 21.21px;
+    top: 139px;
+}
+
+.user_name_invite1{
+
+    position: absolute;
+    width: 184px;
+    height: 21px;
+    left: 82px;
+    top: 150px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    text-indent: 10px;
+    
+    color: #44001A;
+}
+
+.user_description_invite1{
+
+    position: absolute;
+    width: 185.42px;
+    height: 16px;
+    left: 82.29px;
+    top: 173px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-indent: 10px;
+    
+    color: #979797;
+
 }
 
 .button_accept1{
-    position: absolute;
-width: 34.38px;
-height: 33px;
-left: 271px;
-top: 154px;
 
+    position: absolute;
+    width: 34.38px;
+    height: 33px;
+    left: 271px;
+    top: 154px;
 }
 
 .button_deny1{
+
     position: absolute;
     width: 34.38px;
     height: 33px;
@@ -57,24 +93,75 @@ top: 154px;
     top: 154px;
 }
 
+.invitation2{
+    position: absolute;
+    width: 375px;
+    height: 82px;
+    left: 0px;
+    top: 210px;
+    border: 1px solid #DADADA;
+    box-sizing: border-box;
+}
+
+.profile_invite_2{
+    position: absolute;
+    width: 64.58px;
+    height: 62px;
+    left: 21.21px;
+    top: 220px;
+}
+
+.user_name_invite2{
+    position: absolute;
+    width: 184px;
+    height: 21px;
+    left: 88px;
+    top: 232px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    text-indent: 10px;
+    color: #44001A;
+}
+
+.user_description_invite2{
+
+    position: absolute;
+    width: 185.42px;
+    height: 16px;
+    left: 88.29px;
+    top: 255px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-indent: 10px;
+    
+    color: #979797;
+
+
+
+}
+
 .button_accept2{
     position: absolute;
     width: 34.38px;
     height: 33px;
     left: 271px;
+    top: 235px;
 }
 
 .button_deny2{
-position: absolute;
-width: 34.38px;
-height: 33px;
-left: 309.54px;
-}
-
-.invitation_1{
     position: absolute;
-    width: 264px;
-    height: 82px;
-    left: 0px;
-    top: 129px;
+    width: 34.38px;
+    height: 33px;
+    left: 309.54px;
+    top: 235px;
+    
 }

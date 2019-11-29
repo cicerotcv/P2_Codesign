@@ -159,7 +159,7 @@
     align-items: center;
     text-align: right;
     color: #F4F6F0;
-    /* border: 1px solid #000000; */
+    background-color: rgb(0, 0, 0,71%);
 }
 
 .search-engine{

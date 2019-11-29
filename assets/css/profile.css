@@ -1,152 +1,170 @@
-.interesses {
-    position: absolute;
-    width: 244px;
-    height: 38px;
-    left: 19px;
-    top: 77px;
-    
-    font-family: Merriweather Sans;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 30px;
-    line-height: 38px;
-    /* identical to box height */
-    
-    display: flex;
-    align-items: center;
-    
-    color: #44001A;
-}
-
-.arrow {
+.profile-back-button{
     position: absolute;
     width: 38px;
     height: 38px;
-    left: 306px;
-    top: 77px;
+    left: 20px;
+    top: 86px;
+    background: #C0EB6A
+
+    order: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    transform: rotate(0deg);
 }
 
-.tip {
+.profile-image{
     position: absolute;
-width: 325px;
-height: 20px;
-left: 19px;
-top: 129px;
-
-font-family: Merriweather Sans;
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 20px;
-display: flex;
-align-items: center;
-
-color: #979797;
+    width: 213px;
+    height: 213px;
+    left: 81px;
+    top: 82.75px;
+    background: url(photo-1504911539020-cfb0f7887a5e.jpg);
+    box-sizing: border-box;
 }
 
-.instrucoes {
+.profile-name{
     position: absolute;
-    width: 325px;
-    height: 40px;
-    left: 19px;
-    top: 214px;
-
-    font-family: Merriweather Sans;
+    width: 268px;
+    height: 34px;
+    left: 49px;
+    top: 306px;
+    font-family: Roboto;
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
-    line-height: 20px;
-    display: flex;
-    align-items: center;
-
-    color: #979797;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    text-indent: 10px;
+    color: #44001A;
 }
 
-.interest-item {
+.profile-description{
     position: absolute;
-    width: 65.74px;
-    padding: 0.25rem;
-    color: white;
-    background: #979797;
-    border-radius: 2px;
-}
-.item1 {
-    left: 24.26px;
-    top: 173px;
-}
-.item2 {
-    left: 104px;
-    top: 173px;
-    width: 150px;
-}
-.interest-text {
+    width: 129px;
+    height: 23px;
+    left: 123px;
+    top: 339px;
     font-family: Roboto;
     font-style: normal;
     font-weight: 300;
-    font-size: 14px;
-    line-height: 16px;
-    vertical-align: center;
-    align-items: center;
-    text-indent: 10px;
-    color: #FFFFFF;
-}
-.X {
-    left: 60px;
-    float: right;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    align-items: center;
-    padding: 0px 0.25rem;
-    color: #44001A;
-    text-decoration: none;
-    cursor: pointer;
-}
-
-.pesquisar {
-    position: absolute;
-    width: 290px;
-    height: 54px;
-    left: 43px;
-    top: 278px;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 19px;
+    font-size: 20px;
+    line-height: 23px;
     display: flex;
     align-items: center;
-    text-indent: 50px;
-    border: hidden;
-    color: #000000;
-    background: #F4F6F0 url("../img/magnifying_glass.svg") no-repeat;
-    background-position-x: 15px;
-    background-position-y: center;
-    border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
+    text-align: center;
+    text-indent: 10px;
+    color: #979797;
 }
 
-.adicionar {
+.profile-button{
     position: absolute;
-    width: 100px;
-    height: 35px;
-    left: 138px;
-    top: 352px;
+    width: 213px;
+    height: 56px;
+    left: 86px;
+    top: 383px;
     background: #C0EB6A;
-    border-radius: 5px;
+    border-radius: 2px;
 }
-.adicionar-texto {
-    background-color: black;
+
+.profile-button-text{
+    left: 60px;
+    top: 12px;
+    position: absolute;
+    font-family: Merriweather Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 31px;
+    color: #FCFCFC;
+}
+
+.profile-heart{
+    position: absolute;
+    width: 24px;
+    height: 22px;
+    left: 21px;
+    top: 462px;
+}
+
+.profile-interesse1{
+    position: absolute;
+    width: 363px;
+    height: 26px;
+    left: 21px;
+    top: 462px;
     font-family: Roboto;
     font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 19px;
-    align-items: center;
-    text-align: center;
-    vertical-align: middle;
-    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    text-indent: 40px;
+    color: #44001A;
+}
+
+.profile-house{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 21px;
+    top: 512px;  
+}
+
+.profile-interesse2{
+    position: absolute;
+    width: 286px;
+    height: 22px;
+    left: 21px;
+    top: 514px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    text-indent: 40px;
+    color: #44001A;
+}
+
+.profile-person{
+    position: absolute;
+    width: 16px;
+    height: 22px;
+    left: 25px;
+    top: 562px;
+}
+
+.profile-interesse3{
+    position: absolute;
+    width: 286px;
+    height: 22px;
+    left: 22px;
+    top: 562px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    text-indent: 40px;
+    color: #44001A;
+}
+
+.profile-job{
+    position: absolute;
+    width: 23.75px;
+    height: 19px;
+    left: 21px;
+    top: 607px;
+}
+
+.profile-interesse4{
+    position: absolute;
+    width: 286px;
+    height: 22px;
+    left: 22px;
+    top: 609px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    text-indent: 40px;
+    color: #44001A;
 }

@@ -385,7 +385,7 @@ text-indent: 10px;
     top: 79px;
 }
 
-.search-rectangle{
+.search_rectangle{
     width: 1.74px;
     height: 8.71px;
     left: 329.88px;
@@ -394,8 +394,8 @@ text-indent: 10px;
     transform: rotate(-45deg);
 }
 
-.search-rectangle0{
-    position: fixed;
+.abutre{
+    position: absolute;
     width: 324px;
     height: 33px;
     left: 20px;
@@ -427,11 +427,6 @@ text-indent: 10px;
 }
 
 .search-text1{ 
-    position: absolute;
-    width: 128px;
-    height: 33px;
-    left: 20px;
-    top: 73px;
     font-family: Merriweather Sans;
     font-style: normal;
     font-weight: normal;

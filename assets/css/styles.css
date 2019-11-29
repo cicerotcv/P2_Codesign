@@ -494,3 +494,44 @@
     align-items: center;
     color: #44001A;
 }
+
+.container_invite{
+    position: absolute;
+    width: 375px;
+    height: 82px;
+    left: 0px;
+    top: 129px;
+}
+
+.button_accept1{
+    position: absolute;
+width: 34.38px;
+height: 33px;
+left: 271px;
+top: 154px;
+
+}
+
+.button_deny1{
+    position: absolute;
+    width: 34.38px;
+    height: 33px;
+    left: 309.54px;
+    top: 154px;
+}
+
+.button_accept2{
+    position: absolute;
+    width: 34.38px;
+    height: 33px;
+    left: 271px;
+    top: 235px;
+}
+
+.button_deny2{
+position: absolute;
+width: 34.38px;
+height: 33px;
+left: 309.54px;
+top: 235px;
+}

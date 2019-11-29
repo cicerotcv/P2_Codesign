@@ -21,8 +21,9 @@
     position: absolute;
     width: 306px;
     height: 306px;
-    left: 28.5px;
+    left: 35px;
     top: 98px;
+    
 }
 
 .photo_match{
@@ -30,7 +31,7 @@
     position: absolute;
     width: 279px;
     height: 130px;
-    left: 42.5px;
+    left: 45px;
     top: 184px;
 }
 
@@ -38,8 +39,8 @@
     position: absolute;
     width: 86px;
     height: 86px;
-    left: 141.5px;
-    top: 208px;
+    left: 145px;
+    top: 205px;
 }
 
 .text_match{

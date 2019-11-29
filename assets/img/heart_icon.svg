@@ -1,109 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="10.847917mm"
-   height="10.847917mm"
-   viewBox="0 0 10.847917 10.847917"
-   version="1.1"
-   id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="heart_icon.svg">
-  <defs
-     id="defs2">
-    <linearGradient
-       id="paint0_linear"
-       x1="20.5"
-       y1="3"
-       x2="20.936199"
-       y2="83.255302"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#44001A"
-         id="stop20" />
-      <stop
-         offset="1"
-         stop-color="#44001A"
-         stop-opacity="0"
-         id="stop22" />
-    </linearGradient>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="7.1251362"
-     inkscape:cy="-7.3462331"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="715"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Camada 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-80.662621,-144.82563)">
-    <g
-       id="layer1-4"
-       inkscape:label="Camada 1"
-       transform="translate(-8.8396836,-30.333746)">
-      <g
-         transform="matrix(0.26458333,0,0,0.26458333,89.502305,174.36563)"
-         id="g41"
-         style="fill:none">
-        <circle
-           style="fill:url(#paint0_linear)"
-           cx="20.5"
-           cy="23.5"
-           r="20.5"
-           id="circle10" />
-        <path
-           style="fill:#f3f3f3"
-           inkscape:connector-curvature="0"
-           d="m 19.4478,34.0896 c 0.8004,0.9851 2.3041,0.9851 3.1045,0 L 31.593,22.9625 c 1.0173,-1.2521 0.2097,-3.1315 -1.3989,-3.2553 l -9.0407,-0.6954 c -0.1021,-0.0079 -0.2047,-0.0079 -0.3068,0 l -9.0407,0.6954 c -1.6086,0.1238 -2.41619,2.0032 -1.3988,3.2553 z"
-           id="path12" />
-        <ellipse
-           style="fill:#f3f3f3"
-           cx="15"
-           cy="19.5"
-           rx="6"
-           ry="5.5"
-           id="ellipse14" />
-        <ellipse
-           style="fill:#f3f3f3"
-           cx="27"
-           cy="19.5"
-           rx="6"
-           ry="5.5"
-           id="ellipse16" />
-      </g>
-    </g>
-  </g>
+<svg width="41" height="41" viewBox="0 0 41 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="20.5" cy="20.5" r="20.5" fill="url(#paint0_linear)"/>
+<path d="M19.4478 31.0896C20.2482 32.0747 21.7519 32.0747 22.5523 31.0896L31.593 19.9625C32.6103 18.7104 31.8027 16.831 30.1941 16.7072L21.1534 16.0118C21.0513 16.0039 20.9487 16.0039 20.8466 16.0118L11.8059 16.7072C10.1973 16.831 9.38971 18.7104 10.4071 19.9625L19.4478 31.0896Z" fill="#F3F3F3"/>
+<ellipse cx="15" cy="16.5" rx="6" ry="5.5" fill="#F3F3F3"/>
+<ellipse cx="27" cy="16.5" rx="6" ry="5.5" fill="#F3F3F3"/>
+<defs>
+<linearGradient id="paint0_linear" x1="20.5" y1="0" x2="20.9362" y2="80.2553" gradientUnits="userSpaceOnUse">
+<stop stop-color="#44001A"/>
+<stop offset="1" stop-color="#44001A" stop-opacity="0"/>
+</linearGradient>
+</defs>
 </svg>

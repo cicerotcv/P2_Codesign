@@ -1,0 +1,152 @@
+.interesses {
+    position: absolute;
+    width: 244px;
+    height: 38px;
+    left: 19px;
+    top: 77px;
+    
+    font-family: Merriweather Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #44001A;
+}
+
+.arrow {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    left: 306px;
+    top: 77px;
+}
+
+.tip {
+    position: absolute;
+width: 325px;
+height: 20px;
+left: 19px;
+top: 129px;
+
+font-family: Merriweather Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+display: flex;
+align-items: center;
+
+color: #979797;
+}
+
+.instrucoes {
+    position: absolute;
+    width: 325px;
+    height: 40px;
+    left: 19px;
+    top: 214px;
+
+    font-family: Merriweather Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+
+    color: #979797;
+}
+
+.interest-item {
+    position: absolute;
+    width: 65.74px;
+    padding: 0.25rem;
+    color: white;
+    background: #979797;
+    border-radius: 2px;
+}
+.item1 {
+    left: 24.26px;
+    top: 173px;
+}
+.item2 {
+    left: 104px;
+    top: 173px;
+    width: 150px;
+}
+.interest-text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    vertical-align: center;
+    align-items: center;
+    text-indent: 10px;
+    color: #FFFFFF;
+}
+.X {
+    left: 60px;
+    float: right;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    align-items: center;
+    padding: 0px 0.25rem;
+    color: #44001A;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.pesquisar {
+    position: absolute;
+    width: 290px;
+    height: 54px;
+    left: 43px;
+    top: 278px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-indent: 50px;
+    border: hidden;
+    color: #000000;
+    background: #F4F6F0 url("../img/magnifying_glass.svg") no-repeat;
+    background-position-x: 15px;
+    background-position-y: center;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.adicionar {
+    position: absolute;
+    width: 100px;
+    height: 35px;
+    left: 138px;
+    top: 352px;
+    background: #C0EB6A;
+    border-radius: 5px;
+}
+.adicionar-texto {
+    background-color: black;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    align-items: center;
+    text-align: center;
+    vertical-align: middle;
+    color: #FFFFFF;
+}

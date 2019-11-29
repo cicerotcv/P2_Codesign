@@ -8,7 +8,7 @@ function replace() {
 
 function toggleNotifications(x) {
     x.classList.toggle("change");
-    var menu = document.getElementsByClassName('menu')[0]
+    var menu = document.getElementsByClassName('menu')[0];
     console.log("click no menu funcionou");
     if (menu.style.display != "grid") {
         menu.style.display = "grid";
@@ -18,4 +18,13 @@ function toggleNotifications(x) {
     }
 
     
+}
+
+function interestRemove(x) {
+    var parent = document.getElementsByClassName(x.parentElement.className)[0];
+    parent.style.display = "none"
+}
+
+function appendSuggestions(x) {
+    console.log(x.value)
 }
